@@ -1,0 +1,9 @@
+<resources>
+    <string name="PageNiveau">Page niveau</string>
+    <string name="option">otpion</string>
+    <string name="choisi_ton_poison">Choisi ton poison</string>
+    <string name="button">Button</string>
+    <string name="pargeAccueil">Button</string>
+    <string name="app_name">TestDeplacementEntite</string>
+
+</resources>
